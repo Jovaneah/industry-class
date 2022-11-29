@@ -56,21 +56,21 @@
     <tr>
       <td><a href="https://github.com/Jovaneah/Flask-Data-Sekolah"><b>Flask Python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ajovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/Jovaneah/Python-Voice-Assistant"><b>Voice Assistant with Python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Jovaneah/Python-Voice-Assistant?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ajovaneah/Python-Voice-Assistant?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Jovaneah/Python-Voice-Assistant?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Jovaneah/Python-Voice-Assistant?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Jovaneah/Python-Voice-Assistant?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Jovaneah/Flask-Data-Sekolah"><b>Flask Python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ajovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Jovaneah/Flask-Data-Sekolah?style=flat-square&labelColor=343b41"/></td>
     </tr>
