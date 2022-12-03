@@ -1,0 +1,100 @@
+:root {
+  --primary-color: #d6e4e5;
+  --secondary-color: #497174;
+  --third-color: #393e46;
+  --fourth-color: #b2b2b2;
+}
+.dark-theme {
+  --primary-color: #393e46;
+  --secondary-color: #628e90;
+  --third-color: #f7f7f7;
+  --fourth-color: #b2b2b2;
+}
+body {
+  font-family: Sans-serif;
+  background-color: var(--secondary-color);
+  color: var(--third-color);
+}
+.card {
+  margin: auto;
+  margin-top: 10%;
+  padding: 2%;
+  text-align: center;
+  background-color: var(--primary-color);
+  width: 20%;
+  border-radius: 10%;
+}
+.profile {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.icon {
+  margin-top: 0%;
+  font-size: 25px;
+  text-decoration: none;
+  position: relative;
+}
+.ikon {
+  color: var(--third-color);
+  position: relative;
+  transition: 0.2s;
+  position: relative;
+  margin: 10px;
+}
+.ikon:hover {
+  color: var(--fourth-color);
+  transition: 0.2s;
+}
+#mode {
+  position: absolute;
+  margin-left: 7%;
+  transition: 0.2s;
+}
+#mode:hover {
+  width: 30px;
+  transition: 0.2s;
+}
+@media only screen and (max-width: 600px) {
+  body {
+    font-family: Sora;
+    background-color: var(--secondary-color);
+    color: var(--third-color);
+  }
+  .card {
+    margin: auto;
+    margin-top: 30%;
+    padding: 3%;
+    text-align: center;
+    background-color: var(--primary-color);
+    width: 70%;
+    border-radius: 10%;
+  }
+  .profile {
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  .icon {
+    margin-top: 0%;
+    font-size: 25px;
+    text-decoration: none;
+    position: relative;
+  }
+  .ikon {
+    color: var(--third-color);
+    position: relative;
+    transition: 0.2s;
+    position: relative;
+    margin: 10px;
+  }
+  #mode {
+    position: absolute;
+    margin-left: 22%;
+    transition: 0.2s;
+  }
+}
