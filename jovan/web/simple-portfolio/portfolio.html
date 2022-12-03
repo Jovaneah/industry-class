@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link href='https://fonts.googleapis.com/css?family=Sora' rel='stylesheet'>
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="card">
+      <img src="asset/moon.png" id="mode" width="26px" />
+      <div class="foto">
+        <img src="https://c4.wallpaperflare.com/wallpaper/589/876/54/lights-dark-blur-neon-situations-hd-wallpaper-preview.jpg" class="profile" />
+      </div>
+      <div class="keterangan">
+        <h2>Jovan Emmanuel</h2>
+        <h3>Backend Dev | Cyber Security</h3>
+        <h3>XI SIJA 1</h3>
+        <div class="status">
+          <h4>Always <span class="typed-text"></span><span class="cursor typing"></span></h4>
+        </div>
+      </div>
+      <div class="icon">
+        <a href="https://github.com/jovaneah" class="ikon"><i class="fa fa-github"></i></a>
+        <a href="https://linkedin.com/in/jovaneah" class="ikon"><i class="fa fa-linkedin"></i></a>
+        <a href="https://instagram.com/jovaneah" class="ikon"><i class="fa fa-instagram"></i></a>
+        <a href="https://wa.me/6281385744255" class="ikon"><i class="fa fa-whatsapp"></i></a>
+      </div>
+    </div>
+    <script>
+      var mode = document.getElementById("mode");
+
+      mode.onclick = function () {
+        document.body.classList.toggle("dark-theme");
+        if (document.body.classList.contains("dark-theme")) {
+          mode.src = "asset/sun.png";
+        } else {
+          mode.src = "asset/moon.png";
+        }
+      };
+    </script>
+  </body>
+  <script src="script.js"></script>
+</html>
